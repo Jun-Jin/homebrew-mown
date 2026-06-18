@@ -17,6 +17,8 @@ brew install --cask mown
 
 This installs the notarized **Mown.app** into `/Applications` and puts the bundled `mown` CLI on your `PATH`.
 
+> Recent Homebrew gates third-party taps. If an install is refused as an "untrusted tap", run `brew trust jun-jin/mown` once and retry.
+
 ## Upgrade / uninstall
 
 ```sh
