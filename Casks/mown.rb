@@ -1,6 +1,6 @@
 cask "mown" do
-  version "0.5.1"
-  sha256 "22d2ef30151ab183cff0e053072cd3d123b0ecc7bc5cd8b33e103c138837c64c"
+  version "0.5.2"
+  sha256 "b983483811fddccdf3b62f11b027f957211a440556814c34f05a92fff49fcdf6"
 
   url "https://github.com/Jun-Jin/Mown/releases/download/v#{version}/Mown-#{version}.zip"
   name "Mown"
